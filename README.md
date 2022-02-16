@@ -5,7 +5,7 @@
 1. Clone this project (github) into your PC
 
 ```javascript
-git clone
+git clone https://github.com/aipjamjam/ace-test.git
 ```
 
 2. After cloning, you have to npm install into this project
@@ -44,4 +44,4 @@ Because this project using Expo, you need to install Expo Go on [Google Play](ht
 <img src="/src/assets/images/screenshots/6.jpg" height="500" />
 </p>
 
-### Thanks, hope it's useful for everyone
+## Thanks, hope it's useful for everyone :)
